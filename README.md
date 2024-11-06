@@ -21,7 +21,7 @@ A simple eCommerce webpage that allows users to browse products, view product de
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/ayushman012/ecommerceWebpage.git
+git clone https://github.com/ayushman012/e-commerceWebpage.git
 
 2. Navigate to the project folder:
 
